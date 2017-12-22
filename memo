@@ -1,0 +1,3 @@
+python manage.py deploy product
+python manage.py runserver
+
